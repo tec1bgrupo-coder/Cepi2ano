@@ -1,2 +1,2 @@
 # Cepi2ano
-Projeto do curso
+Oii, vamos aprender a progamar??
